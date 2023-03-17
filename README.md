@@ -6,6 +6,10 @@ if the events are supposed to specific portion of the students , with the power 
 
 identification number, year, department and some other information are stored about all the students in advance. so when a user trys to craete an account he will provide his ugr first. then he needs to answer all the sebsquent questions to make sure he is the right student .
 
-| Column 1 | Column 2 | Column 3 |
-| -------- | :-------:| -------- |
-| Left     | Center   | Right    |
+|name| ugr| 
+| -------- | :-------:|
+| Abel Nigus     | ugr/8843/13   |
+|Eden Gelan     |  ugr/1725/13  |
+|Robel Tesfaye | UGR/8429/13  |
+| Netsanet Tewodros   | UGR/3048/13   |
+|Bemnet Adugnaw | Ugr/2569/13  |
