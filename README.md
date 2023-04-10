@@ -1,6 +1,7 @@
 
 # campus journey 
 #updated one
+
 our app is specifically used for college students which resides in a ceratin campus. 
 The mobile app will offer an online noticeboard where college administrators can post any kind of notice. The student may also download any file that is attached to the notice board. They can also click on the links provided in the notification and browse them. The admins will post the notification, amend it as necessary, and then delete it.The pupils will have access to it.
 There will be a lost and found section in the app. Students will be using this function in its crudest form. Every time they lose something, they will give a comprehensive description of it in this area. According to the type of lost item, they will fill out the form offered by the app. they can check whenever a "found" post is published after that. When a student loses and finds something, they will post about it, update it, and then delete it when they have it back.
